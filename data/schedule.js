@@ -162,7 +162,7 @@ export const schedule = [
       "24": "None"
   },
   {
-      "Date": "2021-11-08",
+      "Date": "2021-11-12",
       "Day of Week": "Monday",
       "Work/Busy Day": "",
       "Workout Type": "Rest Day",
